@@ -4,10 +4,10 @@
 
 ## Team
 
-| Name            | Registration no. | GitHub username |
-| --------------- | ---------------- | --------------- |
-| Margaret Kilola | COM/3409/26      | margaretsanchez |
-| Maryjoy Rashid  | COM/3428/26      | Mariejoeystar   |
+| Name            | Registration no. | GitHub username    |
+| --------------- | ---------------- | -------------------|
+| Margaret Kilola | COM/3409/26      | margaretsanchez jpg|
+| Maryjoy Rashid  | COM/3428/26      | Mariejoeystar   jpg|
 
 ## Who drove each part
 
@@ -27,6 +27,7 @@
   • HTML
   • GIT and GITHUB
   Extension challenge(s) completed:
+   added FAQ
 
 ## Reflection
 
