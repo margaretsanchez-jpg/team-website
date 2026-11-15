@@ -1,6 +1,6 @@
 # Team Name: Code Syndicate
 
-**Live site:** https://github.com/margaretsanchez-jpg/team-website.git
+**Live site:** https://margaretsanchez-jpg/github.io/team-website/
 
 ## Team
 
