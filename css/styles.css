@@ -34,9 +34,8 @@ body.dark {
   --color-surface: #1a212b;
   --color-text: #e7ebf0;
   --color-muted: #a2abb9;
-  --color-primary: #67e8d2;
-  --color-primary-dark: #99f6e4;
-  --color-on-primary: #0b1f1f;
+  --color-primary: #67e8d2 --color-primary-dark: #99f6e4
+    --color-on-primary: #0b1f1f;
   --color-border: #2b3340;
   --color-error: #ff8a80;
   --color-success: #7ddc97;
@@ -188,7 +187,7 @@ img {
   display: none;
 }
 
-/*IMAGES*/
+/*images*/
 .card img {
   width: 100px;
   height: 120px;
