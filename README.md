@@ -4,10 +4,12 @@
 
 ## Team
 
-| Name            | Registration no. | GitHub username     |
-| --------------- | ---------------- | ------------------- |
-| Margaret Kilola | COM/3409/26      | margaretsanchez-jpg |
-| Maryjoy Rashid  | COM/3428/26      | Mariejoeystar       |
+| Name            | Registration no. | GitHub username                                |
+| --------------- | ---------------- | ---------------------------------------------- |
+| Margaret Kilola | COM/3409/26      | margaretsanchez-jpg and margaretkilola85-debug |
+| Maryjoy Rashid  | COM/3428/26      | Mariejoeystar                                  |
+
+Margaret used two GitHub accounts during development. The first account owns the repository and hosts the live website, while the second account was used to make some commits.
 
 ## Who drove each part
 
